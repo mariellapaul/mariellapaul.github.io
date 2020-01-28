@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Mariella Paul</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD student in Neuropsychology with Angela D. Friederici at the Max Planck Institute for Human Cognitive and Brain Sciences (MPI-CBS) in collaboration with the Berlin School of Mind and Brain. My research interests include the neural underpinnings of language acqusition during early childhood, with a growing interest in meta research and open science. As an eLife Community ambassador and a member of the local Open Science initiative at MPI-CBS, I promote the use of Open Science practices in everyday research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Antonio Schettino</title>
+      <link>/authors/antonio-schettino/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/antonio-schettino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Mehler</title>
+      <link>/authors/david-mehler/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/david-mehler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduard Klapwijk</title>
+      <link>/authors/eduard-klapwijk/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/eduard-klapwijk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Bartlett</title>
+      <link>/authors/james-bartlett/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/james-bartlett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Algermissen</title>
+      <link>/authors/johannes-algermissen/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/johannes-algermissen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matan Mazor</title>
+      <link>/authors/matan-mazor/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/matan-mazor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remi Gau</title>
+      <link>/authors/remi-gau/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/remi-gau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephan Heunis</title>
+      <link>/authors/stephan-heunis/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/stephan-heunis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angela D. Friederici</title>
+      <link>/authors/angela-d.-friederici/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/angela-d.-friederici/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claudia Männel</title>
+      <link>/authors/claudia-mannel/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/claudia-mannel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gesa Schaadt</title>
+      <link>/authors/gesa-schaadt/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/gesa-schaadt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Muralikrishnan</title>
+      <link>/authors/r.-muralikrishnan/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-muralikrishnan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

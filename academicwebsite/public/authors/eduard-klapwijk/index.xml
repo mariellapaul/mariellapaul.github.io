@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduard Klapwijk | Mariella Paul</title>
+    <link>/authors/eduard-klapwijk/</link>
+      <atom:link href="/authors/eduard-klapwijk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eduard Klapwijk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Eduard Klapwijk</title>
+      <link>/authors/eduard-klapwijk/</link>
+    </image>
+    
+    <item>
+      <title>A fruitful rendevous at SIPS Neuroimagers meet study preregistration advocates</title>
+      <link>/openscience/ohbmblog/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/openscience/ohbmblog/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

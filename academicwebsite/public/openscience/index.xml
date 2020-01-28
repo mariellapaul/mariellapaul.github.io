@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opensciences | Mariella Paul</title>
+    <link>/openscience/</link>
+      <atom:link href="/openscience/index.xml" rel="self" type="application/rss+xml" />
+    <description>Opensciences</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Opensciences</title>
+      <link>/openscience/</link>
+    </image>
+    
+    <item>
+      <title>A fruitful rendevous at SIPS Neuroimagers meet study preregistration advocates</title>
+      <link>/openscience/ohbmblog/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/openscience/ohbmblog/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>eLife Community ambassador</title>
+      <link>/openscience/elifeambassador/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/openscience/elifeambassador/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MPI CBS Open Science initiative</title>
+      <link>/openscience/cbsopenscience/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/openscience/cbsopenscience/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

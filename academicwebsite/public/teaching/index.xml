@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | Mariella Paul</title>
+    <link>/teaching/</link>
+      <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Courses</title>
+      <link>/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Open Science and Resarch Ethics</title>
+      <link>/teaching/osethics/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/teaching/osethics/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Harry Potter and the Methods of Reproducibility &amp;ndash; A brief Introduction to Open Science&amp;rdquo; is the title of a talk I gave on a lecture on January 23, 2020 as part of Vincent Cheung&#39;s course &amp;ldquo;Planning and Conducting a Psychology Experiment&amp;rdquo;. The talk gives a brief overview of Open Science, particularly reproducibility. It introduces the concept of questionable research practices (QRPs) and Open Science solutions to these QRPs, such as preregistrations, registered reports, Open Data, Open Code, and Open Materials. It also outlines how these practices relate to research ethics. The lecture is approachable and interactive and has a Harry-Potter theme throughout.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Hands-On Introduction to Event-Related Potentials</title>
+      <link>/teaching/erp/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/teaching/erp/</guid>
+      <description>&lt;p&gt;In April 2018, I taught a class titled &amp;ldquo;A Hands-On Introduction to Event-Related Potentials&amp;rdquo; at the Berlin School of Mind and Brain. You&#39;ll find the code and slides for this class on OSF (&lt;a href=&#34;https://osf.io/rga5d/)&#34;&gt;https://osf.io/rga5d/)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Event-related potentials (ERPs) are a commonly used method in psychology, cognitive neuroscience and related fields. With their high temporal resolution on the order of milliseconds, ERPs allow insight into brain mechanisms involved in learning, language processing, social cognition, and many others. The aim of this course is to learn how to use ERPs to study the mind and the brain, to get hands-on experience with the analysis of ERPs, and to get intuitions about the underlying principles of analysis steps. There are no specific prerequisites needed for this course, although basic programming skills in Matlab will be advantageous.&lt;/p&gt;
+&lt;p&gt;We will start with a brief introduction of EEG data in general and specifically ERPs. We will learn which kind of research questions can be answered using ERPs and how to design an ERP experiment. We will also look at a number of ERPs commonly found in neuropsychological experiments and learn how to interpret them. Then, we will turn to the hands-on sessions, in which we will analyze EEG data using Fieldtrip, an open-source, Matlab-based toolbox. We will learn how to get from raw EEG data acquired in psychological experiments to ERPs. Using Fieldtrip, we will perform commonly used steps of EEG analysis, including filtering, segmenting, rereferencing, cleaning, averaging and plotting. As a final step, we will learn how to use statistical analysis on ERPs. For each of these steps, we will first look at the underlying principles and then conduct this analysis step ourselves.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
